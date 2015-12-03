@@ -1,0 +1,459 @@
+Jugada Valida
+co1,o1,co2,o2,b3,s3,f3,co3,o3,ce2,f1,co1,hi1,a11,r1,a21,s2,h2,a31,a12,a41,a22,a32,a42,co3,o3,co4,o4,f5,s5,s5,p5,ce1,f4,co4,o4,b5,s5,b5,f5,b5,co5,hi5,a15,r5,a25,s6,fs6,a35,a16,o6,co7,o7,ce2,co6,hi6,a16,f7,f7,s7,p7,fs8,a26,a18,o8,f9,r6,a36,f9,co9,o9,ce1,s8,co8,hi8,a18,f9,f9,f9,f9,co9,hi9,a28,a19,co1,o1,s2,s2,b2,co2,o2,f3,b3,co3,hi3,a38,a29,a13,co4,hi4,a48,a39,a23,a14,f5,b5,f5,co5,hi5,a49,a33,a24,a15,f6,co6,o6,ce2,co1,o1,co2,o2,b3,f3,co3,o3,ce1,b7,f7,b7,co7,hi7,a17,f8,f8,s8,p8,f9,s9,dp9,o7,o9,ce2,b4,s4,f4,s4,p4,b5,b5,f5,s5,f5,s5,p5,co6,o6,ce1,w1,a11,co2,hi2,a21,a12,b3,dp3,o2,o3,f4,b4,b4,b4,f4,co4,hi4,a31,a14,b5,s5,s5,co5,o5,ce2,b7,f7,f7,s7,p7,co8,hi8,a18,r8,a28,r8,a38,f9,h9,a48,a19,a29,a39,a49,s1,co1,hi1,a11,b2,d2,a21,a12,a31,a22,r1,a41,f3,b3,s3,b3,s3,p3,f4,s4,s4,p4,ce1,b6,co6,o6,co7,hi7,a17,fs8,a27,a18,o8,f9,co9,o9,ce2,b5,w5,a15,s6,s6,s6,p6,s7,co7,o7,r5,a25,b8,r5,a35,r5,a45,h8,a18,a28,a38,a48,co9,o9,ce1,f1,b1,f1,co1,o1,b2,f2,s2,b2,co2,o2,co3,o3,ce2,co1,hi1,a11,f2,s2,s2,p2,f3,f3,f3,f3,co3,o3,f4,co4,hi4,a21,a14,s5,co5,hi5,a31,a24,a15,b6,b6,co6,hi6,a41,a34,a25,a16,d7,a44,a35,a26,a17,a45,a36,a27,b8,co8,o8,ce1,co4,o4,s5,co5,o5,b6,b6,b6,f6,s6,co6,o6,ce2,b9,f9,f9,co9,o9,co1,o1,b2,s2,bo2,a12,f3,b3,f3,b3,r2,a22,f3,r2,a32,b3,r2,a42,s3,f3,b3,h3,a13,a23,a33,a43,f4,s4,s4,p4,ce1,b7,b7,b7,s7,f7,s7,p7,b8,f8,b8,bg8,a18,f9,s9,co9,o9,co1,hi1,a28,a11,d2,a38,a21,a12,a48,a31,a22,b3,f3,s3,b3,co3,o3,ce2,ff2.
+
+Historial
+
+1). 	 Conctato a pelota   	1 	Yankees
+2). 	 out   	1 	Yankees
+3). 	 Conctato a pelota   	2 	Yankees
+4). 	 out   	2 	Yankees
+5). 	 1 bola   	3 	Yankees
+6). 	 strike   	3 	Yankees
+7). 	 foul   	3 	Yankees
+8). 	 Conctato a pelota   	3 	Yankees
+9). 	 out   	3 	Yankees
+10). 	 Cambio de juego   	2 	Yankees
+11). 	 foul   	1 	Indios
+12). 	 Conctato a pelota   	1 	Indios
+13). 	 hit   	1 	Indios
+14). 	 Movimiento a 1er. base   	1 	Indios
+15). 	 robo de base   	1 	Indios
+16). 	 Movimiento a 2da. base   	1 	Indios
+17). 	 strike   	2 	Indios
+18). 	 home run   	2 	Indios
+19). 	 Movimiento a 3er. base   	1 	Indios
+20). 	 Movimiento a 1er. base   	2 	Indios
+21). 	 Movimiento a home   	1 	Indios
+22). 	 Movimiento a 2da. base   	2 	Indios
+23). 	 Movimiento a 3er. base   	2 	Indios
+24). 	 Movimiento a home   	2 	Indios
+25). 	 Conctato a pelota   	3 	Indios
+26). 	 out   	3 	Indios
+27). 	 Conctato a pelota   	4 	Indios
+28). 	 out   	4 	Indios
+29). 	 foul   	5 	Indios
+30). 	 strike   	5 	Indios
+31). 	 strike   	5 	Indios
+32). 	 ponche   	5 	Indios
+33). 	 Cambio de juego   	1 	Indios
+34). 	 foul   	4 	Yankees
+35). 	 Conctato a pelota   	4 	Yankees
+36). 	 out   	4 	Yankees
+37). 	 1 bola   	5 	Yankees
+38). 	 strike   	5 	Yankees
+39). 	 2 bola   	5 	Yankees
+40). 	 foul   	5 	Yankees
+41). 	 3 bola   	5 	Yankees
+42). 	 Conctato a pelota   	5 	Yankees
+43). 	 hit   	5 	Yankees
+44). 	 Movimiento a 1er. base   	5 	Yankees
+45). 	 robo de base   	5 	Yankees
+46). 	 Movimiento a 2da. base   	5 	Yankees
+47). 	 strike   	6 	Yankees
+48). 	 fly de sacrificio   	6 	Yankees
+49). 	 Movimiento a 3er. base   	5 	Yankees
+50). 	 Movimiento a 1er. base   	6 	Yankees
+51). 	 out   	6 	Yankees
+52). 	 Conctato a pelota   	7 	Yankees
+53). 	 out   	7 	Yankees
+54). 	 Cambio de juego   	2 	Yankees
+55). 	 Conctato a pelota   	6 	Indios
+56). 	 hit   	6 	Indios
+57). 	 Movimiento a 1er. base   	6 	Indios
+58). 	 foul   	7 	Indios
+59). 	 foul   	7 	Indios
+60). 	 strike   	7 	Indios
+61). 	 ponche   	7 	Indios
+62). 	 fly de sacrificio   	8 	Indios
+63). 	 Movimiento a 2da. base   	6 	Indios
+64). 	 Movimiento a 1er. base   	8 	Indios
+65). 	 out   	8 	Indios
+66). 	 foul   	9 	Indios
+67). 	 robo de base   	6 	Indios
+68). 	 Movimiento a 3er. base   	6 	Indios
+69). 	 foul   	9 	Indios
+70). 	 Conctato a pelota   	9 	Indios
+71). 	 out   	9 	Indios
+72). 	 Cambio de juego   	1 	Indios
+73). 	 strike   	8 	Yankees
+74). 	 Conctato a pelota   	8 	Yankees
+75). 	 hit   	8 	Yankees
+76). 	 Movimiento a 1er. base   	8 	Yankees
+77). 	 foul   	9 	Yankees
+78). 	 foul   	9 	Yankees
+79). 	 foul   	9 	Yankees
+80). 	 foul   	9 	Yankees
+81). 	 Conctato a pelota   	9 	Yankees
+82). 	 hit   	9 	Yankees
+83). 	 Movimiento a 2da. base   	8 	Yankees
+84). 	 Movimiento a 1er. base   	9 	Yankees
+85). 	 Conctato a pelota   	1 	Yankees
+86). 	 out   	1 	Yankees
+87). 	 strike   	2 	Yankees
+88). 	 strike   	2 	Yankees
+89). 	 1 bola   	2 	Yankees
+90). 	 Conctato a pelota   	2 	Yankees
+91). 	 out   	2 	Yankees
+92). 	 foul   	3 	Yankees
+93). 	 1 bola   	3 	Yankees
+94). 	 Conctato a pelota   	3 	Yankees
+95). 	 hit   	3 	Yankees
+96). 	 Movimiento a 3er. base   	8 	Yankees
+97). 	 Movimiento a 2da. base   	9 	Yankees
+98). 	 Movimiento a 1er. base   	3 	Yankees
+99). 	 Conctato a pelota   	4 	Yankees
+100). 	 hit   	4 	Yankees
+101). 	 Movimiento a home   	8 	Yankees
+102). 	 Movimiento a 3er. base   	9 	Yankees
+103). 	 Movimiento a 2da. base   	3 	Yankees
+104). 	 Movimiento a 1er. base   	4 	Yankees
+105). 	 foul   	5 	Yankees
+106). 	 1 bola   	5 	Yankees
+107). 	 foul   	5 	Yankees
+108). 	 Conctato a pelota   	5 	Yankees
+109). 	 hit   	5 	Yankees
+110). 	 Movimiento a home   	9 	Yankees
+111). 	 Movimiento a 3er. base   	3 	Yankees
+112). 	 Movimiento a 2da. base   	4 	Yankees
+113). 	 Movimiento a 1er. base   	5 	Yankees
+114). 	 foul   	6 	Yankees
+115). 	 Conctato a pelota   	6 	Yankees
+116). 	 out   	6 	Yankees
+117). 	 Cambio de juego   	2 	Yankees
+118). 	 Conctato a pelota   	1 	Indios
+119). 	 out   	1 	Indios
+120). 	 Conctato a pelota   	2 	Indios
+121). 	 out   	2 	Indios
+122). 	 1 bola   	3 	Indios
+123). 	 foul   	3 	Indios
+124). 	 Conctato a pelota   	3 	Indios
+125). 	 out   	3 	Indios
+126). 	 Cambio de juego   	1 	Indios
+127). 	 1 bola   	7 	Yankees
+128). 	 foul   	7 	Yankees
+129). 	 2 bola   	7 	Yankees
+130). 	 Conctato a pelota   	7 	Yankees
+131). 	 hit   	7 	Yankees
+132). 	 Movimiento a 1er. base   	7 	Yankees
+133). 	 foul   	8 	Yankees
+134). 	 foul   	8 	Yankees
+135). 	 strike   	8 	Yankees
+136). 	 ponche   	8 	Yankees
+137). 	 foul   	9 	Yankees
+138). 	 strike   	9 	Yankees
+139). 	 doble play   	9 	Yankees
+140). 	 out   	7 	Yankees
+141). 	 out   	9 	Yankees
+142). 	 Cambio de juego   	2 	Yankees
+143). 	 1 bola   	4 	Indios
+144). 	 strike   	4 	Indios
+145). 	 foul   	4 	Indios
+146). 	 strike   	4 	Indios
+147). 	 ponche   	4 	Indios
+148). 	 1 bola   	5 	Indios
+149). 	 2 bola   	5 	Indios
+150). 	 foul   	5 	Indios
+151). 	 strike   	5 	Indios
+152). 	 foul   	5 	Indios
+153). 	 strike   	5 	Indios
+154). 	 ponche   	5 	Indios
+155). 	 Conctato a pelota   	6 	Indios
+156). 	 out   	6 	Indios
+157). 	 Cambio de juego   	1 	Indios
+158). 	 wild pitch   	1 	Yankees
+159). 	 Movimiento a 1er. base   	1 	Yankees
+160). 	 Conctato a pelota   	2 	Yankees
+161). 	 hit   	2 	Yankees
+162). 	 Movimiento a 2da. base   	1 	Yankees
+163). 	 Movimiento a 1er. base   	2 	Yankees
+164). 	 1 bola   	3 	Yankees
+165). 	 doble play   	3 	Yankees
+166). 	 out   	2 	Yankees
+167). 	 out   	3 	Yankees
+168). 	 foul   	4 	Yankees
+169). 	 1 bola   	4 	Yankees
+170). 	 2 bola   	4 	Yankees
+171). 	 3 bola   	4 	Yankees
+172). 	 foul   	4 	Yankees
+173). 	 Conctato a pelota   	4 	Yankees
+174). 	 hit   	4 	Yankees
+175). 	 Movimiento a 3er. base   	1 	Yankees
+176). 	 Movimiento a 1er. base   	4 	Yankees
+177). 	 1 bola   	5 	Yankees
+178). 	 strike   	5 	Yankees
+179). 	 strike   	5 	Yankees
+180). 	 Conctato a pelota   	5 	Yankees
+181). 	 out   	5 	Yankees
+182). 	 Cambio de juego   	2 	Yankees
+183). 	 1 bola   	7 	Indios
+184). 	 foul   	7 	Indios
+185). 	 foul   	7 	Indios
+186). 	 strike   	7 	Indios
+187). 	 ponche   	7 	Indios
+188). 	 Conctato a pelota   	8 	Indios
+189). 	 hit   	8 	Indios
+190). 	 Movimiento a 1er. base   	8 	Indios
+191). 	 robo de base   	8 	Indios
+192). 	 Movimiento a 2da. base   	8 	Indios
+193). 	 robo de base   	8 	Indios
+194). 	 Movimiento a 3er. base   	8 	Indios
+195). 	 foul   	9 	Indios
+196). 	 home run   	9 	Indios
+197). 	 Movimiento a home   	8 	Indios
+198). 	 Movimiento a 1er. base   	9 	Indios
+199). 	 Movimiento a 2da. base   	9 	Indios
+200). 	 Movimiento a 3er. base   	9 	Indios
+201). 	 Movimiento a home   	9 	Indios
+202). 	 strike   	1 	Indios
+203). 	 Conctato a pelota   	1 	Indios
+204). 	 hit   	1 	Indios
+205). 	 Movimiento a 1er. base   	1 	Indios
+206). 	 1 bola   	2 	Indios
+207). 	 doblete   	2 	Indios
+208). 	 Movimiento a 2da. base   	1 	Indios
+209). 	 Movimiento a 1er. base   	2 	Indios
+210). 	 Movimiento a 3er. base   	1 	Indios
+211). 	 Movimiento a 2da. base   	2 	Indios
+212). 	 robo de base   	1 	Indios
+213). 	 Movimiento a home   	1 	Indios
+214). 	 foul   	3 	Indios
+215). 	 1 bola   	3 	Indios
+216). 	 strike   	3 	Indios
+217). 	 2 bola   	3 	Indios
+218). 	 strike   	3 	Indios
+219). 	 ponche   	3 	Indios
+220). 	 foul   	4 	Indios
+221). 	 strike   	4 	Indios
+222). 	 strike   	4 	Indios
+223). 	 ponche   	4 	Indios
+224). 	 Cambio de juego   	1 	Indios
+225). 	 1 bola   	6 	Yankees
+226). 	 Conctato a pelota   	6 	Yankees
+227). 	 out   	6 	Yankees
+228). 	 Conctato a pelota   	7 	Yankees
+229). 	 hit   	7 	Yankees
+230). 	 Movimiento a 1er. base   	7 	Yankees
+231). 	 fly de sacrificio   	8 	Yankees
+232). 	 Movimiento a 2da. base   	7 	Yankees
+233). 	 Movimiento a 1er. base   	8 	Yankees
+234). 	 out   	8 	Yankees
+235). 	 foul   	9 	Yankees
+236). 	 Conctato a pelota   	9 	Yankees
+237). 	 out   	9 	Yankees
+238). 	 Cambio de juego   	2 	Yankees
+239). 	 1 bola   	5 	Indios
+240). 	 wild pitch   	5 	Indios
+241). 	 Movimiento a 1er. base   	5 	Indios
+242). 	 strike   	6 	Indios
+243). 	 strike   	6 	Indios
+244). 	 strike   	6 	Indios
+245). 	 ponche   	6 	Indios
+246). 	 strike   	7 	Indios
+247). 	 Conctato a pelota   	7 	Indios
+248). 	 out   	7 	Indios
+249). 	 robo de base   	5 	Indios
+250). 	 Movimiento a 2da. base   	5 	Indios
+251). 	 1 bola   	8 	Indios
+252). 	 robo de base   	5 	Indios
+253). 	 Movimiento a 3er. base   	5 	Indios
+254). 	 robo de base   	5 	Indios
+255). 	 Movimiento a home   	5 	Indios
+256). 	 home run   	8 	Indios
+257). 	 Movimiento a 1er. base   	8 	Indios
+258). 	 Movimiento a 2da. base   	8 	Indios
+259). 	 Movimiento a 3er. base   	8 	Indios
+260). 	 Movimiento a home   	8 	Indios
+261). 	 Conctato a pelota   	9 	Indios
+262). 	 out   	9 	Indios
+263). 	 Cambio de juego   	1 	Indios
+264). 	 foul   	1 	Yankees
+265). 	 1 bola   	1 	Yankees
+266). 	 foul   	1 	Yankees
+267). 	 Conctato a pelota   	1 	Yankees
+268). 	 out   	1 	Yankees
+269). 	 1 bola   	2 	Yankees
+270). 	 foul   	2 	Yankees
+271). 	 strike   	2 	Yankees
+272). 	 2 bola   	2 	Yankees
+273). 	 Conctato a pelota   	2 	Yankees
+274). 	 out   	2 	Yankees
+275). 	 Conctato a pelota   	3 	Yankees
+276). 	 out   	3 	Yankees
+277). 	 Cambio de juego   	2 	Yankees
+278). 	 Conctato a pelota   	1 	Indios
+279). 	 hit   	1 	Indios
+280). 	 Movimiento a 1er. base   	1 	Indios
+281). 	 foul   	2 	Indios
+282). 	 strike   	2 	Indios
+283). 	 strike   	2 	Indios
+284). 	 ponche   	2 	Indios
+285). 	 foul   	3 	Indios
+286). 	 foul   	3 	Indios
+287). 	 foul   	3 	Indios
+288). 	 foul   	3 	Indios
+289). 	 Conctato a pelota   	3 	Indios
+290). 	 out   	3 	Indios
+291). 	 foul   	4 	Indios
+292). 	 Conctato a pelota   	4 	Indios
+293). 	 hit   	4 	Indios
+294). 	 Movimiento a 2da. base   	1 	Indios
+295). 	 Movimiento a 1er. base   	4 	Indios
+296). 	 strike   	5 	Indios
+297). 	 Conctato a pelota   	5 	Indios
+298). 	 hit   	5 	Indios
+299). 	 Movimiento a 3er. base   	1 	Indios
+300). 	 Movimiento a 2da. base   	4 	Indios
+301). 	 Movimiento a 1er. base   	5 	Indios
+302). 	 1 bola   	6 	Indios
+303). 	 2 bola   	6 	Indios
+304). 	 Conctato a pelota   	6 	Indios
+305). 	 hit   	6 	Indios
+306). 	 Movimiento a home   	1 	Indios
+307). 	 Movimiento a 3er. base   	4 	Indios
+308). 	 Movimiento a 2da. base   	5 	Indios
+309). 	 Movimiento a 1er. base   	6 	Indios
+310). 	 doblete   	7 	Indios
+311). 	 Movimiento a home   	4 	Indios
+312). 	 Movimiento a 3er. base   	5 	Indios
+313). 	 Movimiento a 2da. base   	6 	Indios
+314). 	 Movimiento a 1er. base   	7 	Indios
+315). 	 Movimiento a home   	5 	Indios
+316). 	 Movimiento a 3er. base   	6 	Indios
+317). 	 Movimiento a 2da. base   	7 	Indios
+318). 	 1 bola   	8 	Indios
+319). 	 Conctato a pelota   	8 	Indios
+320). 	 out   	8 	Indios
+321). 	 Cambio de juego   	1 	Indios
+322). 	 Conctato a pelota   	4 	Yankees
+323). 	 out   	4 	Yankees
+324). 	 strike   	5 	Yankees
+325). 	 Conctato a pelota   	5 	Yankees
+326). 	 out   	5 	Yankees
+327). 	 1 bola   	6 	Yankees
+328). 	 2 bola   	6 	Yankees
+329). 	 3 bola   	6 	Yankees
+330). 	 foul   	6 	Yankees
+331). 	 strike   	6 	Yankees
+332). 	 Conctato a pelota   	6 	Yankees
+333). 	 out   	6 	Yankees
+334). 	 Cambio de juego   	2 	Yankees
+335). 	 1 bola   	9 	Indios
+336). 	 foul   	9 	Indios
+337). 	 foul   	9 	Indios
+338). 	 Conctato a pelota   	9 	Indios
+339). 	 out   	9 	Indios
+340). 	 Conctato a pelota   	1 	Indios
+341). 	 out   	1 	Indios
+342). 	 1 bola   	2 	Indios
+343). 	 strike   	2 	Indios
+344). 	 bok   	2 	Indios
+345). 	 Movimiento a 1er. base   	2 	Indios
+346). 	 foul   	3 	Indios
+347). 	 1 bola   	3 	Indios
+348). 	 foul   	3 	Indios
+349). 	 2 bola   	3 	Indios
+350). 	 robo de base   	2 	Indios
+351). 	 Movimiento a 2da. base   	2 	Indios
+352). 	 foul   	3 	Indios
+353). 	 robo de base   	2 	Indios
+354). 	 Movimiento a 3er. base   	2 	Indios
+355). 	 1 bola   	3 	Indios
+356). 	 robo de base   	2 	Indios
+357). 	 Movimiento a home   	2 	Indios
+358). 	 strike   	3 	Indios
+359). 	 foul   	3 	Indios
+360). 	 1 bola   	3 	Indios
+361). 	 home run   	3 	Indios
+362). 	 Movimiento a 1er. base   	3 	Indios
+363). 	 Movimiento a 2da. base   	3 	Indios
+364). 	 Movimiento a 3er. base   	3 	Indios
+365). 	 Movimiento a home   	3 	Indios
+366). 	 foul   	4 	Indios
+367). 	 strike   	4 	Indios
+368). 	 strike   	4 	Indios
+369). 	 ponche   	4 	Indios
+370). 	 Cambio de juego   	1 	Indios
+371). 	 1 bola   	7 	Yankees
+372). 	 2 bola   	7 	Yankees
+373). 	 3 bola   	7 	Yankees
+374). 	 strike   	7 	Yankees
+375). 	 foul   	7 	Yankees
+376). 	 strike   	7 	Yankees
+377). 	 ponche   	7 	Yankees
+378). 	 1 bola   	8 	Yankees
+379). 	 foul   	8 	Yankees
+380). 	 2 bola   	8 	Yankees
+381). 	 base por golpe   	8 	Yankees
+382). 	 Movimiento a 1er. base   	8 	Yankees
+383). 	 foul   	9 	Yankees
+384). 	 strike   	9 	Yankees
+385). 	 Conctato a pelota   	9 	Yankees
+386). 	 out   	9 	Yankees
+387). 	 Conctato a pelota   	1 	Yankees
+388). 	 hit   	1 	Yankees
+389). 	 Movimiento a 2da. base   	8 	Yankees
+390). 	 Movimiento a 1er. base   	1 	Yankees
+391). 	 doblete   	2 	Yankees
+392). 	 Movimiento a 3er. base   	8 	Yankees
+393). 	 Movimiento a 2da. base   	1 	Yankees
+394). 	 Movimiento a 1er. base   	2 	Yankees
+395). 	 Movimiento a home   	8 	Yankees
+396). 	 Movimiento a 3er. base   	1 	Yankees
+397). 	 Movimiento a 2da. base   	2 	Yankees
+398). 	 1 bola   	3 	Yankees
+399). 	 foul   	3 	Yankees
+400). 	 strike   	3 	Yankees
+401). 	 2 bola   	3 	Yankees
+402). 	 Conctato a pelota   	3 	Yankees
+403). 	 out   	3 	Yankees
+404). 	 Cambio de juego   	2 	Yankees
+405). 	 Fin de juego   	2 	Indios
+
+Rank antes del partido   	Rank del Partido   	Yankess
+
+1).	 0.136   	1.558 	Yankees
+2).	 0.200   	4.333 	Yankees
+3).	 0.286   	4.957 	Yankees
+4).	 0.297   	3.638 	Yankees
+5).	 0.231   	4.341 	Yankees
+6).	 0.269   	3.542 	Yankees
+7).	 0.288   	4.452 	Yankees
+8).	 0.289   	4.335 	Yankees
+9).	 0.309   	4.764 	Yankees
+
+Rank antes del partido   	Rank del Partido   	Indios
+
+1).	 0.400   	8.567 	Indios
+2).	 0.313   	5.164 	Indios
+3).	 0.280   	7.082 	Indios
+4).	 0.292   	5.037 	Indios
+5).	 0.169   	3.162 	Indios
+6).	 0.275   	3.598 	Indios
+7).	 0.225   	2.709 	Indios
+8).	 0.261   	3.088 	Indios
+9).	 0.231   	2.714 	Indios
+
+ Costo parcial por cada carrera de ambos equipos: 
+
+ Carrera de los Yankees: 
+Carrera # 1. costo 20.541667
+Carrera # 2. costo 6.083333
+Carrera # 3. costo 18.333333
+
+ Carrera de los Indios: 
+Carrera # 1. costo 5.625000
+Carrera # 2. costo 1.583333
+Carrera # 3. costo 9.291667
+Carrera # 4. costo 1.750000
+Carrera # 5. costo 6.541667
+Carrera # 6. costo 10.791667
+Carrera # 7. costo 2.083333
+Carrera # 8. costo 19.416667
+Carrera # 9. costo 2.333333
+Carrera # 10. costo 1.750000
+Carrera # 11. costo 15.416667
+Carrera # 12. costo 4.833333
+
+ Costo global del partido: 288.416667
+
+Marcador 3 12  , entrada# 9
