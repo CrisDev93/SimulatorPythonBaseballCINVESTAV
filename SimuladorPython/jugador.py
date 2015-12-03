@@ -31,9 +31,13 @@ class Jugador():
 		self.velocidad = 10
 		self.direccion = "Abajo"
 
-	
+	#------------getCoordenadasZonadeEspera --------------#
+	#Metodo que retorna una posicion aleatoria respecto al area de descanzo
 	def getCoordenadasZonadeEspera(self):
 		return [random.randint(750,900),random.randint(184,200)]
+	#---------- crearFotogramas ------------------------# 
+	# Metodo que se encarga de crear la secuencia de imagenes contenidos en el archivo media.equipo1.png 
+	#los cuales son los que se toman como objetos en la clase main.draw() y las crea respecto al numero de equipo a la cual pertenece. 
 	def crearFotogramas(self):
 		
 		global fotogramas,sel
@@ -41,17 +45,23 @@ class Jugador():
 			self.fotogramas = sprites.grab_sprite_sheet('media/equipo1.png', 4, 3)  
 		else:
 			self.fotogramas = sprites.grab_sprite_sheet('media/equipo2.png', 4, 3)  
-		
-		#a = b.image_at((0, 0, 16, 16))  
-    	#imagen = b.image_at((0, 0, 16, 16))    	
-    	#fotogramas = sel.images_at((0, 0, 16, 16),(17, 0, 16,16), colorkey=(255, 255, 255))
+	#-------- getJugador ----------------------# 
+	#Metodo el cual implementa una busqueda simple el cual itera el arreglo de los jugadores y devuelve al jugador con el cual
+	#cumple el rol y el equipo que se les especifico
+	#@param jugadoresLista es el objeto Array que contiene objetos de tipo Jugador y es donde se realiza la busqueda
+	#@param rol es una cadena el cual contiene el rol a buscar 
+	#@param equipo es un numero entero el cual contiene el equipo en el cual pertence ese rol 
 	def getJugador(self,jugadoresLista,rol,equipo):
 		for jugador in jugadoresLista:
 			if jugador.rol == rol:
 				return jugador
 	
 		return jugador
-	
+	#------------- defMovimiento ---------------# 
+	#Metodo el cual retorna la direccion el cual la animacion se va a reproducir, esto tomando en cuenta 
+	#las coordonadas a donde se dirige partiendo de su coordenada origen. 
+	#@param objetivo es un arreglo de numeros enteros [integer,integer] el cual contiene las coordenadas a las que el jugador ira
+	#@param actual es un arreglo de numeros enteros [integer,integer] el cual contiene las coordenadas en el cual el jugador parte (posicion actual)
 	def defMovimiento(self,objetivo,actual):
 		numerox = 0
 		numeroy = 0

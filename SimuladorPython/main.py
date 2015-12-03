@@ -125,7 +125,7 @@ def dibujar():
  
         # Redibujamos todos los elementos de la pantalla
 
-        # initialize font; must be called after 'pygame.init()' to avoid 'Font not Initialized' error
+   
         
         screen.blit(fondo, (0, 0))
         screen.blit(pelota.figura, (pelota.x, pelota.y))
